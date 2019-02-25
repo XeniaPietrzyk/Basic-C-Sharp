@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P03Silnia\bin\Debug\P03Silnia.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P03Silnia\bin\Debug\P03Silnia.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P03Silnia\obj\Debug\P03Silnia.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P03Silnia\obj\Debug\P03Silnia.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P03Silnia\obj\Debug\P03Silnia.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P03Silnia\obj\Debug\P03Silnia.pdb

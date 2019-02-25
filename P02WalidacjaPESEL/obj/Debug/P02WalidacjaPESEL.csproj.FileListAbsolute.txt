@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P02WalidacjaPESEL\bin\Debug\P02WalidacjaPESEL.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P02WalidacjaPESEL\bin\Debug\P02WalidacjaPESEL.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P02WalidacjaPESEL\obj\Debug\P02WalidacjaPESEL.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P02WalidacjaPESEL\obj\Debug\P02WalidacjaPESEL.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P02WalidacjaPESEL\obj\Debug\P02WalidacjaPESEL.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P02WalidacjaPESEL\obj\Debug\P02WalidacjaPESEL.pdb

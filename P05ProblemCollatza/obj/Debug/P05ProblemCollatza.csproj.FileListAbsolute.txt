@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P05ProblemCollatza\bin\Debug\P05ProblemCollatza.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P05ProblemCollatza\bin\Debug\P05ProblemCollatza.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P05ProblemCollatza\obj\Debug\P05ProblemCollatza.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P05ProblemCollatza\obj\Debug\P05ProblemCollatza.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P05ProblemCollatza\obj\Debug\P05ProblemCollatza.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P05ProblemCollatza\obj\Debug\P05ProblemCollatza.pdb

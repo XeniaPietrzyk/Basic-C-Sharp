@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P07SprawdzCzyToPalindrom\bin\Debug\P07SprawdzCzyToPalindrom.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P07SprawdzCzyToPalindrom\bin\Debug\P07SprawdzCzyToPalindrom.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P07SprawdzCzyToPalindrom\obj\Debug\P07SprawdzCzyToPalindrom.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P07SprawdzCzyToPalindrom\obj\Debug\P07SprawdzCzyToPalindrom.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P07SprawdzCzyToPalindrom\obj\Debug\P07SprawdzCzyToPalindrom.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P07SprawdzCzyToPalindrom\obj\Debug\P07SprawdzCzyToPalindrom.pdb

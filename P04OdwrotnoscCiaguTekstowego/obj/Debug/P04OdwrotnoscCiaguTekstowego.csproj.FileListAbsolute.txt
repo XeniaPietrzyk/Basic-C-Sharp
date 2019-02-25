@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P04OdwrotnoscCiaguTekstowego\bin\Debug\P04OdwrotnoscCiaguTekstowego.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P04OdwrotnoscCiaguTekstowego\bin\Debug\P04OdwrotnoscCiaguTekstowego.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P04OdwrotnoscCiaguTekstowego\obj\Debug\P04OdwrotnoscCiaguTekstowego.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P04OdwrotnoscCiaguTekstowego\obj\Debug\P04OdwrotnoscCiaguTekstowego.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P04OdwrotnoscCiaguTekstowego\obj\Debug\P04OdwrotnoscCiaguTekstowego.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P04OdwrotnoscCiaguTekstowego\obj\Debug\P04OdwrotnoscCiaguTekstowego.pdb

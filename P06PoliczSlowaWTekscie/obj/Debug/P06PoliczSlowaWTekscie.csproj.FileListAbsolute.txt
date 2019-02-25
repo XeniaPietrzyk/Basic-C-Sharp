@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P06PoliczSlowaWTekscie\bin\Debug\P06PoliczSlowaWTekscie.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P06PoliczSlowaWTekscie\bin\Debug\P06PoliczSlowaWTekscie.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P06PoliczSlowaWTekscie\obj\Debug\P06PoliczSlowaWTekscie.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P06PoliczSlowaWTekscie\obj\Debug\P06PoliczSlowaWTekscie.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P06PoliczSlowaWTekscie\obj\Debug\P06PoliczSlowaWTekscie.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P06PoliczSlowaWTekscie\obj\Debug\P06PoliczSlowaWTekscie.pdb

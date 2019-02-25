@@ -1,0 +1,6 @@
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P01FizzBuzz\bin\Debug\P01FizzBuzz.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P01FizzBuzz\bin\Debug\P01FizzBuzz.pdb
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P01FizzBuzz\obj\Debug\P01FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P01FizzBuzz\obj\Debug\P01FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P01FizzBuzz\obj\Debug\P01FizzBuzz.exe
+C:\Users\Xenia\source\repos\JedenProjektDziennieNaRozgrzewke\P01FizzBuzz\obj\Debug\P01FizzBuzz.pdb
